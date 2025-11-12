@@ -9,7 +9,17 @@ A real-time **AI-powered proctoring system** that ensures exam integrity by dete
 ![dlib](https://img.shields.io/badge/dlib-Facial_Landmarks-lightgrey)
 
 ---
+## 🎥 Project Demos
 
+<a href="https://drive.google.com/file/d/1c4bsawxp9mY1J6ffiVZgDwRMpXOMwdSA/view?usp=sharing" target="_blank">
+  <img src="https://img.shields.io/badge/▶️%20Go--through%20Demo-%23FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Go-through Demo"/>
+</a>
+
+<a href="https://drive.google.com/file/d/1hP8XpuQsiS9dbdIp1mFNtZBo1f47biRw/view?usp=sharing" target="_blank">
+  <img src="https://img.shields.io/badge/▶️%20Real--Time%20Monitoring-%23FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Real-Time Monitoring Demo"/>
+</a>
+
+---
 ## 🚀 Overview
 
 The **AI-Proctored Exam System** automatically detects cheating behavior in online tests by analyzing:
