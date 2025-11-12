@@ -24,25 +24,29 @@ It provides a GUI-based interface for registration, calibration, and continuous 
 
 ### 🔹 Registration Window
 The user enters their details before beginning the test.  
-![Registration Window](ac279bf49f39405782f72711132dc1b6.jpg)
+![ac279bf49f39405782f72711132dc1b6](https://github.com/user-attachments/assets/08983443-4f72-4cb3-ae54-03812f901897)
+
 
 ---
 
 ### 🔹 Eye Calibration
 Performs initial eye-tracking calibration to establish gaze direction baselines.  
-![Eye Calibration](887d7b8089254946ad84c24b51bf64d4.jpg)
+![887d7b8089254946ad84c24b51bf64d4](https://github.com/user-attachments/assets/d475de18-804b-44d7-a2ac-109582ecfb9c)
+
 
 ---
 
 ### 🔹 Real-Time Detection
 Displays gaze direction, head orientation, and mobile detection results on screen.  
-![Real-Time Detection](85e805f332f042b89e15312fb510bb4a.jpg)
+![85e805f332f042b89e15312fb510bb4a](https://github.com/user-attachments/assets/1e872056-f7e0-40cd-ba02-3f76a62e6c22)
+
 
 ---
 
 ### 🔹 Terminal Log Output
 Every event and detected anomaly is logged with screenshot evidence.  
-![Terminal Logs](1bca6dfb33b74052b025c4b52c3a20c7.jpg)
+![1bca6dfb33b74052b025c4b52c3a20c7](https://github.com/user-attachments/assets/bf490644-5f8b-498b-bdee-8e51609c4a46)
+
 
 ---
 
